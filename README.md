@@ -1,2 +1,2 @@
 # Credit-Card-Lead-Prediction
-Dataset source and explanation: https://www.kaggle.com/tejashvi14/travel-insurance-prediction-data
+Dataset source and explanation: https://www.kaggle.com/sajidhussain3/jobathon-may-2021-credit-card-lead-prediction/code
